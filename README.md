@@ -1,6 +1,6 @@
 # L'évolution des ordinateurs : rapport et présentation en LaTeX
 
-Un rapport de 7 pages et une présentation de 10 diapositives sur l'histoire des ordinateurs, des premières machines à calculer jusqu'aux PC d'aujourd'hui.
+Un rapport de 7 pages et une présentation de 10 diapositives sur l'histoire des ordinateurs, des premières machines à calculer jusqu'aux PC d'aujourd'hui. Projet académique réalisé à 4, de septembre à novembre 2023.
 
 C'est un travail de groupe (quatre étudiants) réalisé en 2023/2024 pendant le cours PPEI de L3 informatique. Le but du cours n'était pas le sujet en lui-même, mais d'apprendre à écrire des documents avec des langages de balisage : on pouvait choisir entre Markdown et LaTeX, et nous avons choisi LaTeX.
 
